@@ -32,3 +32,7 @@ h1{
   75%  {color:#DAA520;}
   100% {color:#00ffff;}
 }
+
+#grades{
+    text-align: center;
+}
