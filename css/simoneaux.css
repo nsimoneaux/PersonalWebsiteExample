@@ -1,3 +1,7 @@
 h1{
   font-family: 'Diplomata SC', cursive;
 }
+#myCarousel{
+    width: 400px;
+    margin: 0 auto;
+}
