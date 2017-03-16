@@ -6,7 +6,7 @@ h1{
     margin: 0 auto;
 }
 #carouselText{
-  font-size: 36px;
+  font-size: 24px;
   font-family: 'Diplomata SC', cursive;
 
   -webkit-animation-name: chilleffect; /* Safari 4.0 - 8.0 */
