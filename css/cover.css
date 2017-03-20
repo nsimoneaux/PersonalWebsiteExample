@@ -28,7 +28,7 @@ html,
 body {
   height: 100%;
   background-color: #333;
-  background-image: url("../img/obama.jpg")
+  background-image: url("../img/obama.jpg");
 }
 body {
   color: #fff;
