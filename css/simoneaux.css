@@ -41,8 +41,13 @@ h2{
 #heading1of4{
   font-size: 40px;
   font-style: italic;
-  font-color: purple;
+  color: purple;
 }
+#heading2of4{
+  font-family: 'Bungee Shade', cursive;
+  color:purple;
+}
+
 #sentence2{
   color: red;
 }
