@@ -37,3 +37,12 @@ h2{
   text-align: center;
   font-family: 'Diplomata SC', cursive;
 }
+
+#heading1of4{
+  font-size: 40px;
+  font-style: italic;
+  color: purple;
+}
+#sentence2{
+  color: red;
+}
