@@ -79,6 +79,7 @@ h2{
    100% {color:red;}
 }
 #heading3of4{
+  font-family: 'Bungee Shade', cursive;
   -webkit-animation-name: swageffect; /* Safari 4.0 - 8.0 */
   -webkit-animation-duration: 1s;
   animation-name: swageffect;
