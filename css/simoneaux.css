@@ -41,8 +41,12 @@ h2{
 #heading1of4{
   font-size: 40px;
   font-style: italic;
-  color: purple;
+  font-color: purple;
 }
 #sentence2{
   color: red;
+}
+#dplus{
+  height: 50%;
+  width: auto;
 }
